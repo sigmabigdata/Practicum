@@ -129,3 +129,5 @@ sudo yum install git
 P.S. Для облегчения обучения, оставлю вам ссылку на бесплатный тренажер по Git.
 
 https://learngitbranching.js.org/
+
+Проверка сохранения
