@@ -52,14 +52,15 @@ sudo yum install git
 Создайте папку, где будет храниться ваш проект. Если такая папка уже есть, то создавать новую не надо.
 
 После открываем VS Code .
-**[Терминал Vs Code](https://habrastorage.org/getpro/habr/upload_files/415/4fe/297/4154fe297d8f2d82b7d7c4f44b986e00)**
+
+<img src="https://habrastorage.org/getpro/habr/upload_files/415/4fe/297/4154fe297d8f2d82b7d7c4f44b986e00">
 
 1. Установите себе дополнительно анализаторы кода для JavaScript и PHP
 2. Откройте вашу папку, которую создали ранее
 
 После этого у вас появится вот такой интерфейс
 
-**[Анализаторы кода](https://habrastorage.org/getpro/habr/upload_files/536/76a/b32/53676ab32ff10608c9a4748af3740cbd)**
+<img src="https://habrastorage.org/getpro/habr/upload_files/536/76a/b32/53676ab32ff10608c9a4748af3740cbd">
 
 1. Здесь будут располагаться все файлы вашего проекта
 2. Здесь можно работать с Git-ом
@@ -70,7 +71,7 @@ sudo yum install git
 
 Давайте теперь перейдем во вкладу для работы с Git-ом.
 
-**[Вкладка для работы с Git](https://habrastorage.org/getpro/habr/upload_files/dcf/64a/da5/dcf64ada515fad57d956537797626035)**
+<img src="https://habrastorage.org/getpro/habr/upload_files/dcf/64a/da5/dcf64ada515fad57d956537797626035">
 
 Откроется вот такое окно:
 
@@ -86,7 +87,7 @@ sudo yum install git
 
 Теперь сделаем изменения в коде и попробуем их снова опубликовать. Перейдите во вкладку с файлами, отредактируйте какой-нибудь файл, не забудьте нажать crtl+s (Windows) или cmd+s (MacOS), чтобы сохранить файл. Вернитесь обратно во вкладу управления Git.
 
-**[Вкладка управления](https://habrastorage.org/getpro/habr/upload_files/72a/ac6/9eb/72aac69eb4ebe95064aaa08b844cb8dd)**
+<img src="https://habrastorage.org/getpro/habr/upload_files/72a/ac6/9eb/72aac69eb4ebe95064aaa08b844cb8dd">
 
 Если посмотреть на значок вкладки Git, то можно увидеть цифру 1 в синем кружке. Она означает, сколько файлов у нас изменено и незакоммичено. Давайте его закоммитим и опубликуем:
 
