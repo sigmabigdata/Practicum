@@ -127,7 +127,7 @@ sudo yum install git
 * git push
 * git pull
 
-P.S. Для облегчения обучения надо все бросить.
+P.S. Для облегчения обучения, оставлю вам ссылку на бесплатный тренажер по Git.
 
 https://learngitbranching.js.org/
 
